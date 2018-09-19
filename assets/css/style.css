@@ -1,0 +1,29 @@
+.heading2{
+    position: relative;
+    left: 400px;
+    top: -60px;
+    width: 400px;
+}
+
+#artist-buttons{
+    margin-left: 140px;
+    margin-bottom: 30px;
+}
+
+#artist-form{
+    float: right;
+    position: relative;
+    top: -90px;
+}
+
+.jumbotron{
+    color: blue;
+    background-color: #f4f4f4;
+    
+}
+
+#giphs{
+    background-color: beige;
+    width: 900px;
+    margin: auto;
+}
